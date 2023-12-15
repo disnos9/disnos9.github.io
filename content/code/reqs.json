@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "index.html": {
+      "scripts": [
+        "https://disnos9.pages.dev/index.js"
+      ],
+      "styles": [
+        "https://disnos9.pages.dev/index.css"
+      ]
+    },
+    "other.html": {
+      "scripts": [
+        "script3.js"
+      ],
+      "styles": [
+        "style3.css"
+      ]
+    }
+    // Add more pages as needed
+  }
+}
