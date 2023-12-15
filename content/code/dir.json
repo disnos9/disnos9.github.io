@@ -1,0 +1,28 @@
+{
+  "Folders": [
+    {
+      "folderName": "Folder 1",
+      "folderURL": "folders/folder1/index.html"
+    },
+    {
+      "folderName": "Folder 2",
+      "folderURL": "folders/folder2/index.html"
+    }
+    // Add more folders as needed
+  ],
+  "Files": [
+    {
+      "fileName": "Pool Score",
+      "fileURL": "https://disnos9.github.io/poolscore/"
+    },
+    {
+      "fileName": "Site 2",
+      "fileURL": "https://google.com/"
+    },
+    {
+      "fileName": "Custom Page",
+      "fileURL": "folders/custom/filename.html"
+    }
+    // Add more files as needed
+  ]
+}
